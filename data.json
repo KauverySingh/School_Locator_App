@@ -1,0 +1,238 @@
+{
+  "schools": [
+    {
+      "name": "School A",
+      "street": "123 Main Street",
+      "locality": "ABC Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School B",
+      "street": "456 Elm Street",
+      "locality": "XYZ Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School C",
+      "street": "789 Oak Street",
+      "locality": "PQR Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School D",
+      "street": "321 Pine Street",
+      "locality": "LMN Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School E",
+      "street": "654 Maple Street",
+      "locality": "DEF Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School F",
+      "street": "987 Cedar Street",
+      "locality": "GHI Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School G",
+      "street": "147 Walnut Street",
+      "locality": "JKL Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School H",
+      "street": "258 Birch Street",
+      "locality": "MNO Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School I",
+      "street": "369 Pine Street",
+      "locality": "PQR Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School J",
+      "street": "951 Maple Street",
+      "locality": "STU Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School K",
+      "street": "753 Cedar Street",
+      "locality": "VWX Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School L",
+      "street": "456 Walnut Street",
+      "locality": "YZA Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School M",
+      "street": "258 Birch Street",
+      "locality": "BCD Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School N",
+      "street": "369 Pine Street",
+      "locality": "EFG Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School O",
+      "street": "951 Maple Street",
+      "locality": "HIJ Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School P",
+      "street": "753 Cedar Street",
+      "locality": "KLM Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School Q",
+      "street": "147 Walnut Street",
+      "locality": "NOP Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School R",
+      "street": "258 Birch Street",
+      "locality": "QRS Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School S",
+      "street": "369 Pine Street",
+      "locality": "STU Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School T",
+      "street": "951 Maple Street",
+      "locality": "UVW Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School U",
+      "street": "753 Cedar Street",
+      "locality": "WXY Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School V",
+      "street": "147 Walnut Street",
+      "locality": "YZA Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School W",
+      "street": "258 Birch Street",
+      "locality": "ABC Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    },
+    {
+      "name": "School X",
+      "street": "369 Pine Street",
+      "locality": "DEF Colony",
+      "city": "City Z",
+      "district": "District 3",
+      "state": "State 3",
+      "pincode": "345678"
+    },
+    {
+      "name": "School Y",
+      "street": "951 Maple Street",
+      "locality": "GHI Colony",
+      "city": "City X",
+      "district": "District 1",
+      "state": "State 1",
+      "pincode": "123456"
+    },
+    {
+      "name": "School Z",
+      "street": "753 Cedar Street",
+      "locality": "JKL Colony",
+      "city": "City Y",
+      "district": "District 2",
+      "state": "State 2",
+      "pincode": "789012"
+    }
+  ]
+}
